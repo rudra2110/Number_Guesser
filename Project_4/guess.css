@@ -1,0 +1,53 @@
+body{
+    background-image: url('https://img.freepik.com/premium-vector/falling-numbers-math-study-concept-with-flying_174187-27643.jpg?ga=GA1.1.592935300.1722361522&semt=ais_hybrid');
+}
+.wrapper{
+    background:transparent;
+    color:rgba(235, 232, 232, 0.853);
+    height: 300px;
+    width: 600px;
+    margin: auto;
+    margin-top: 170px;
+    border-radius: 50px;
+}
+
+h2{
+    margin-left: 200px;
+    color:rgba(235, 232, 232, 0.853);
+    /* background-color: rgb(58, 58, 58); */
+    width: 250px;
+    text-decoration: underline;
+}
+
+p{
+    margin-left: 160px;
+}
+
+.pre{
+   /* background: rgb(83, 83, 218); */
+   width: 340px;
+}
+
+.rem{
+    /* background:rgb(18, 95, 125); */
+    width: 170px;
+}
+
+form{
+  margin-left: 155px;
+}
+
+.sub{
+   border: 12px;
+}
+
+.try{
+   
+    width: 350px;
+}
+
+.hilow{
+    color: rgb(228, 235, 244);
+    background: #000;
+    width: 250px;
+}
